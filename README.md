@@ -1,10 +1,10 @@
 # Predict-Diabetes
 
-Link of Wine Quality Check project streamlit app
+Link of Diabetes Prediction In Indian Females, Check project streamlit app
 
-link:- 
+link:- https://share.streamlit.io/rashmdesh/predict-diabetes/main/diabetes_app.py 
 
-Github link:-
+Github link:-https://github.com/RashmDesh/Predict-Diabetes
 
 Predict Diabetes.ipynb ;- This file contain Diabetes datasets EDA and applyting ML.
 
