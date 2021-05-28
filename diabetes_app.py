@@ -5,12 +5,12 @@ from PIL import Image
 import pickle
 
 
-model = pickle.load(open('C:/Users/lenovo/Desktop/datasets/Diabetes/KNN_Model.pkl', 'rb'))
+model = pickle.load(open('KNN_Model.pkl', 'rb'))
 
 html_temp=""" <div style="background-color:Blue;padding:2px"> """
 
 def run():
-    img1 = Image.open('C:/Users/lenovo/Desktop/datasets/Diabetes/img.png')
+    img1 = Image.open('img.png')
     img1 = img1.resize((500, 245))
     st.image(img1, use_column_width=False)
     st.title("Check You Have Diabetes or Not?")
