@@ -1,6 +1,16 @@
 # Predict-Diabetes
 
+Link of Wine Quality Check project streamlit app
 
+link:- 
+
+Github link:-
+
+Predict Diabetes.ipynb ;- This file contain Diabetes datasets EDA and applyting ML.
+
+diabetes_app.py:- This file contains Streamlite app code with diabetes prediction using kNN_Model.pkl
+
+KNN_Model.pkl:-This is KNN  model which we are going to use for diabetes prediction.
 
 ABOUT DATASET
 In this dataset, the outcome used as the target class to predict that the Indians female is diabetic or not( 0=no diabetic and 1= diabetic)based on information about the patient such as blood pressure, body mass index (BMI), age,pregnancies etc.
