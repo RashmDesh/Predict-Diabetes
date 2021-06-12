@@ -17,6 +17,9 @@ In this dataset, the outcome used as the target class to predict that the Indian
 
 Observation:
 In diabetes datasets we have 768 rows and 9 columns.
+
 Columns Details:-'Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin','BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome'.
+
 There is non null values in datasets.
+
 There are 9 numberical columns with 6 int64 types and 2 are folat type.
